@@ -1,0 +1,37 @@
+{
+    "_template": "/var/folders/3z/qpmfl8q908x43zcc0hm8p6380000gq/T/3d6d8cf5-69c7-4ae7-8bbd-c4a387324e5a/template",
+    "access": "fp-mt",
+    "artifact_id": "java-kotlin-lib-test-NocMY",
+    "component_id": "java-kotlin-lib-test-NocMY",
+    "description": "This project was created from the template-java-kotlin-library template.",
+    "destination": {
+        "git": {
+            "filepath": "",
+            "filepathtype": "",
+            "full_name": "fp-mt-test-org/java-kotlin-lib-test-NocMY",
+            "git_suffix": "False",
+            "hash": "",
+            "href": "https://github.com/fp-mt-test-org/java-kotlin-lib-test-NocMY",
+            "name": "java-kotlin-lib-test-NocMY",
+            "organization": "fp-mt-test-org",
+            "owner": "fp-mt-test-org",
+            "pathname": "/fp-mt-test-org/java-kotlin-lib-test-NocMY",
+            "port": null,
+            "protocol": "https",
+            "protocols": [
+                "https"
+            ],
+            "query": {},
+            "ref": "",
+            "resource": "github.com",
+            "search": "",
+            "source": "github.com",
+            "token": "",
+            "user": ""
+        }
+    },
+    "java_package_name": "javakotlinlibtestNocMY",
+    "owner": "Product Infrastructure",
+    "repo_owner": "fp-mt-test-org",
+    "storePath": "https://github.com/fp-mt-test-org/java-kotlin-lib-test-NocMY"
+}
